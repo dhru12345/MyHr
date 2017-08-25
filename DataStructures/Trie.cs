@@ -1,5 +1,7 @@
 /******************************************************************************************
 Contacts
+ //https://www.youtube.com/watch?v=vlYZb68kAY0
+https://visualstudiomagazine.com/Articles/2015/10/20/Text-Pattern-Search-Trie-Class-NET.aspx?Page=2
 *******************************************************************************************/
 
 using System;
